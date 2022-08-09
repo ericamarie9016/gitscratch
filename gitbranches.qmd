@@ -28,3 +28,5 @@ The `echo: false` option disables the printing of code (only output is displayed
 ```{r}
 cool_code <- c(1,2,3)
 ```
+
+Wow lots of good githubbings today!
